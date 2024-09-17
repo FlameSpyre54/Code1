@@ -13,4 +13,4 @@ Ejercicios
 12.r>= 9.841
 13.a == b or b == c or a == c
 14.hola yo soy fernando
-15. 
+15. ayuda
